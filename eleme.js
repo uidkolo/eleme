@@ -1,7 +1,8 @@
 // ==UserScript==
 // @name         贝壳采集器-饿了么
 // @namespace    https://h5.ele.me
-// @version      0.1
+// @version      0.2
+// @updateURL    https://github.com/uidkolo/eleme/blob/master/eleme.js
 // @description  采集商家数据
 // @author       Huyang
 // @match        https://h5.ele.me/*
